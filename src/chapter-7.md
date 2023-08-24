@@ -1,5 +1,3 @@
-Chapter 7: Evaluating the ROI of AI in Business
-===============================================
 
 As with any investment, it is important to evaluate the return on investment (ROI) of Artificial Intelligence (AI) implementation in business. In this chapter, we will explore how businesses can measure the ROI and success of AI implementation in business practice, as well as identify key performance metrics and goals for AI-enabled business growth and profitability.
 

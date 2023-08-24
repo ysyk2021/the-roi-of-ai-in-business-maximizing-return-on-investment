@@ -1,5 +1,3 @@
-Different Approaches and Models for Measuring the ROI of AI in Business
-===========================================================================================================================
 
 Measuring the ROI of AI investments is critical for businesses looking to maximize their returns. In this chapter, we will explore different approaches and models that businesses can use to measure the ROI of AI investments.
 

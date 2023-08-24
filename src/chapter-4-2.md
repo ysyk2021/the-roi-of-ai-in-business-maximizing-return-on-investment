@@ -1,5 +1,3 @@
-Analyzing the Financial and Non-Financial Impacts of AI on Your Business Operations and Performance
-=====================================================================================================================================================
 
 To effectively calculate the ROI of AI investments, it is important to analyze both the financial and non-financial impacts of AI on business operations and performance. In this chapter, we will explore how businesses can analyze the impacts of AI on their operations and performance to calculate their ROI.
 
