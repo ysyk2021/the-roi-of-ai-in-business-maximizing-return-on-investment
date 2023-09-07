@@ -31,3 +31,4 @@
   - [Challenges and Risks of AI Adoption for ROI Optimization in Business](chapter-8-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)
