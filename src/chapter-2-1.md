@@ -1,5 +1,4 @@
-Chapter 2: Basic Concepts and Principles of ROI Analysis for AI Investments
-===========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the world of business, understanding the fundamental concepts and principles of Return on Investment (ROI) analysis is crucial, especially when it comes to making informed decisions about AI investments. In this chapter, we will explore the essential components and principles of ROI analysis specific to AI, providing a solid foundation for maximizing ROI in your business endeavors.
 

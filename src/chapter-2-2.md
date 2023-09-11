@@ -1,5 +1,4 @@
-Chapter 3: Different Approaches and Models for Measuring the ROI of AI in Business
-==================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Measuring the Return on Investment (ROI) of AI in business is a multifaceted task that requires careful consideration of various approaches and models. In this chapter, we will explore the diverse methods and models available for quantifying the ROI of AI investments, offering businesses valuable insights into the financial impact of their AI initiatives.
 

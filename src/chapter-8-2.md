@@ -1,5 +1,4 @@
-Chapter 8: Challenges and Risks of AI Adoption for ROI Optimization in Business
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the challenges and risks associated with AI adoption in the pursuit of optimizing Return on Investment (ROI) in the business context. Understanding and mitigating these challenges is crucial for achieving successful AI implementations and maximizing ROI.
 

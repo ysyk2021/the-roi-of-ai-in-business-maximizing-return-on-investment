@@ -1,5 +1,4 @@
-Chapter 5: Assessing the Risks and Opportunities of AI Investment for Your Business
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical process of assessing the risks and opportunities associated with AI investments for your business. Making informed decisions about AI implementation is essential to maximize the return on investment (ROI) while minimizing potential setbacks.
 

@@ -1,5 +1,4 @@
-Chapter 3: Identifying Your Business Goals and Objectives for Optimal ROI
-=========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the critical process of identifying and defining your business goals and objectives as the foundational step for achieving optimal Return on Investment (ROI) through AI implementation.
 

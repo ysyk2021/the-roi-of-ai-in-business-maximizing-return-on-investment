@@ -1,5 +1,4 @@
-Chapter 7: Analyzing the Financial and Non-Financial Impacts of AI on Your Business Operations and Performance
-==============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore how Artificial Intelligence (AI) can affect both the financial and non-financial aspects of your business operations and overall performance. Understanding these impacts is crucial for maximizing the return on investment (ROI) of AI in your organization.
 

@@ -1,5 +1,4 @@
-Chapter 8: Creating Competitive Advantage and Business Value with AI-Enabled ROI Optimization
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to maximize return on investment (ROI) with AI in business, it is essential to view AI not merely as a technology but as a powerful tool for creating competitive advantage and driving business value. In this chapter, we will explore how AI can be harnessed to optimize ROI, enabling businesses to outperform competitors and deliver exceptional value.
 

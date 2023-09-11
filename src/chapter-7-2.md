@@ -1,5 +1,4 @@
-Chapter 3: Identifying Key Performance Metrics and Goals for AI-Enabled Business Growth and Profitability
-=========================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the crucial task of identifying key performance metrics and goals for leveraging AI to maximize return on investment (ROI) in your business. Understanding what to measure and setting clear objectives is essential to ensure that your AI initiatives align with your business strategy and deliver the desired outcomes.
 

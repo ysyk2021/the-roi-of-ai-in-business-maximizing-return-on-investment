@@ -1,5 +1,4 @@
-Chapter 4: Estimating the Costs and Benefits of AI Adoption for Your Business
-=============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of maximizing return on investment (ROI) with AI in business, it's essential to have a clear understanding of both the costs and benefits associated with AI adoption. In this chapter, we will explore the methodologies and considerations for estimating the costs and benefits of AI implementation tailored to your specific business needs.
 

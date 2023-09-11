@@ -1,5 +1,4 @@
-Chapter 5: Creating a Customized Roadmap for AI Implementation and ROI Analysis
-===============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the process of crafting a tailored roadmap for AI implementation and ROI analysis. Developing a well-defined plan is essential to ensure that your AI initiatives align with your business objectives and deliver measurable returns on investment (ROI).
 

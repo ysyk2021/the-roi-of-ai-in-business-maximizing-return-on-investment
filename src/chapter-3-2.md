@@ -1,5 +1,4 @@
-Chapter 6: Selecting the Right AI Use Cases and Applications for Your Business Needs
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the critical process of selecting the right AI use cases and applications tailored to your specific business needs. Identifying the most suitable AI applications is fundamental to maximizing the return on investment (ROI) of your AI initiatives.
 
